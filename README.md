@@ -58,7 +58,8 @@ smart-room-finder-mobile/
 ├── pubspec.yaml
 └── README.md
 ```
-
+> Note: The local project directory is named `azh-app`. 
+> It is published as the `smart-room-finder-mobile` GitHub repository.
 
 ## ⚙️ Installation & Setup
 
